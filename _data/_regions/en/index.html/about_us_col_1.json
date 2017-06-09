@@ -1,1 +1,6 @@
-[{"_template":"html","content":"<p>Edit this text block to give a general overview of the hotel property highlighting location, building characteristics, nearby landmarks, and popular destinations.</p>"}]
+[
+  {
+    "_template": "html",
+    "content": "<p><p><b>Property Location</b> <br />Located in Boston, The Verb Hotel is in the historical district and minutes from Fenway Park and House of Blues Boston. This hotel is close to Boston Museum of Fine Arts and Hynes Convention Center.</p><p><b>Rooms</b> <br />Make yourself at home in one of the 93 air-conditioned rooms featuring refrigerators and flat-screen televisions. Complimentary wireless Internet access keeps you connected, and cable programming is available for your entertainment. Private bathrooms with showers feature complimentary toiletries and hair dryers. Conveniences include phones,</p>"
+  }
+]
